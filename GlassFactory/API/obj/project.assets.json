@@ -161,11 +161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\GlassFactory\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\user\\Desktop\\GlassFactory\\API\\API.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\API\\API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\GlassFactory\\API\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,14 +188,14 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\GlassFactory\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\GlassFactory\\Application\\Application.csproj"
+            "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Application.csproj"
             },
-            "C:\\Users\\user\\Desktop\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj"
+            "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj"
             },
-            "C:\\Users\\user\\Desktop\\GlassFactory\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\GlassFactory\\Persistence\\Persistence.csproj"
+            "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj"
             }
           }
         }

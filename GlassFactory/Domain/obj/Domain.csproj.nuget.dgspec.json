@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Domain.csproj": {}
+    "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

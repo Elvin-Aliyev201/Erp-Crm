@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GlassFactory\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\permissioncodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\permissioncodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\systemroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\systemroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\glassfactory\\domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{022BD13B-6166-48C0-8E46-AD2DA5B4C765}|Domain\\Domain.csproj|solutionrelative:domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91DA3C3C-86E0-4000-B6F5-09A104F29ADF}|Persistence\\Persistence.csproj|c:\\users\\user\\desktop\\glassfactory\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91DA3C3C-86E0-4000-B6F5-09A104F29ADF}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +50,64 @@
       "DocumentGroups": [
         {
           "DockedHeight": 260,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemRoles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\SystemRoles.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\SystemRoles.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\SystemRoles.cs",
+              "RelativeToolTip": "Domain\\Identity\\SystemRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:39:17.106Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PermissionCodes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\PermissionCodes.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\PermissionCodes.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\PermissionCodes.cs",
+              "RelativeToolTip": "Domain\\Identity\\PermissionCodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:29:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\User.cs",
+              "RelativeToolTip": "Domain\\Identity\\User.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:49:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Identity\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\Role.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Identity\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Role.cs",
               "RelativeToolTip": "Domain\\Identity\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T19:41:23.38Z",
               "EditorCaption": ""
@@ -57,87 +116,76 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Permission.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Identity\\Permission.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Permission.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\Permission.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Identity\\Permission.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Permission.cs",
               "RelativeToolTip": "Domain\\Identity\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T19:35:48.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\AuditableEntity.cs",
               "RelativeToolTip": "Domain\\Common\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T19:31:45.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T19:20:37.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\IDomainEvent.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Common\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\IDomainEvent.cs",
               "RelativeToolTip": "Domain\\Common\\IDomainEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:11:09.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T19:11:09.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Exceptions\\DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Exceptions\\DomainException.cs",
               "RelativeToolTip": "Domain\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T18:51:50.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T18:51:50.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Persistence",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GlassFactory\\Persistence\\Persistence.csproj",
+              "DocumentIndex": 9,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj",
               "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GlassFactory\\Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj",
               "RelativeToolTip": "Persistence\\Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-04T18:47:31.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2026-11-04T18:47:31.888Z"
             }
           ]
         }
