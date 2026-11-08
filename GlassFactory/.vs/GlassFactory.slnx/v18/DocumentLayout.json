@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\application\\common\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\application\\common\\abstractions\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\abstractions\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\infrasturucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\infrasturucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\time\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\time\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\application\\common\\abstractions\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\abstractions\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\application\\common\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\domain\\identity\\permissioncodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\permissioncodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,15 +82,115 @@
       "DocumentGroups": [
         {
           "DockedHeight": 260,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:04:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Abstractions\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Common\\Abstractions\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:02:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\CurrentUserService.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:50:48.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infrasturucture",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj",
+              "RelativeDocumentMoniker": "Infrasturucture\\Infrasturucture.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Infrasturucture.csproj",
+              "RelativeToolTip": "Infrasturucture\\Infrasturucture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-08T18:45:28.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Abstractions\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\ICurrentUserService.cs",
+              "RelativeToolTip": "Application\\Common\\Abstractions\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:48:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Time\\DateTimeProvider.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Time\\DateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Time\\DateTimeProvider.cs",
+              "RelativeToolTip": "Infrasturucture\\Time\\DateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:44:08.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Abstractions\\IDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IDateTimeProvider.cs",
+              "RelativeToolTip": "Application\\Common\\Abstractions\\IDateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:42:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Abstractions\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Common\\Abstractions\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:27:36.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SystemRoles.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\SystemRoles.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\SystemRoles.cs",
@@ -66,25 +198,24 @@
               "RelativeToolTip": "Domain\\Identity\\SystemRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T19:39:17.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T19:39:17.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "PermissionCodes.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\PermissionCodes.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\PermissionCodes.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\PermissionCodes.cs",
               "RelativeToolTip": "Domain\\Identity\\PermissionCodes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T19:29:44.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\User.cs",
@@ -92,16 +223,11 @@
               "RelativeToolTip": "Domain\\Identity\\User.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAuwGcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T18:49:51.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2026-11-07T18:49:51.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\Role.cs",
@@ -109,12 +235,11 @@
               "RelativeToolTip": "Domain\\Identity\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:41:23.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T19:41:23.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Permission.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Identity\\Permission.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\Permission.cs",
@@ -122,12 +247,11 @@
               "RelativeToolTip": "Domain\\Identity\\Permission.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:35:48.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T19:35:48.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\AuditableEntity.cs",
@@ -135,12 +259,11 @@
               "RelativeToolTip": "Domain\\Common\\AuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:31:45.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T19:31:45.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
@@ -148,12 +271,11 @@
               "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:20:37.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T19:20:37.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Common\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Common\\IDomainEvent.cs",
@@ -164,8 +286,16 @@
               "WhenOpened": "2026-11-04T19:11:09.945Z"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Domain\\Exceptions\\DomainException.cs",
@@ -177,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj",
               "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
