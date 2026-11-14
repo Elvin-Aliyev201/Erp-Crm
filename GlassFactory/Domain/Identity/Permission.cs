@@ -10,6 +10,7 @@ namespace Domain.Identity
     {
         public string Code { get; private set; }
         public string Description { get; private set; }
+        public List<Role>? Roles { get; private set; }
         private Permission(string code, string description)
         {
             Code = code;
