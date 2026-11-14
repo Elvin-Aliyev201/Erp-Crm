@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\jwttokengenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\jwttokengenrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\infrasturucture\\authentication\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B2E36A-7058-266F-63AF-95DC3A5A4529}|Infrasturucture\\Infrasturucture.csproj|solutionrelative:infrasturucture\\authentication\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\application\\common\\abstractions\\ijwttokengenarator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\abstractions\\ijwttokengenarator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|c:\\users\\user\\desktop\\erp-crm\\glassfactory\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{727CFD8C-23B7-C991-64E7-E71059A345FA}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +42,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T19:45:08.561Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtTokenGenrator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\JwtTokenGenrator.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\JwtTokenGenrator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\JwtTokenGenrator.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\JwtTokenGenrator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T19:16:47.55Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomClaimTypes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\CustomClaimTypes.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\CustomClaimTypes.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\CustomClaimTypes.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\CustomClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T19:13:05.41Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Infrasturucture\\Authentication\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Infrasturucture\\Authentication\\JwtOptions.cs",
+              "RelativeToolTip": "Infrasturucture\\Authentication\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:59:10.891Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtTokenGenarator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IJwtTokenGenarator.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Abstractions\\IJwtTokenGenarator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Application\\Common\\Abstractions\\IJwtTokenGenarator.cs",
+              "RelativeToolTip": "Application\\Common\\Abstractions\\IJwtTokenGenarator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:55:53.663Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:52:21.399Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persistence",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T18:38:10.897Z",
+              "EditorCaption": "",
+              "OwnerCaption": "Persistence"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermissionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Configurations\\PermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configurations\\PermissionConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Erp-Crm\\GlassFactory\\Persistence\\Configurations\\PermissionConfiguration.cs",
+              "RelativeToolTip": "Persistence\\Configurations\\PermissionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T18:32:41.232Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
